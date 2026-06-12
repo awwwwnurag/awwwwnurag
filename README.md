@@ -189,27 +189,6 @@ A responsive expense management application focused on intuitive financial track
 
 ---
 
-# Experience
-
-## Web Development Intern — Prodigy Infotech
-
-**May 2025 – June 2025**
-
-Worked on responsive web applications with a strong focus on UI responsiveness, frontend optimization, and modern web engineering practices.
-
-### Scope of Work
-
-- Developed responsive and scalable web interfaces.
-- Optimized UI performance and reduced loading times.
-- Implemented interactive user experiences.
-- Collaborated on timely project delivery.
-
-### Skills
-
-`ReactJS` `JavaScript` `Tailwind CSS` `HTML` `CSS` `Vite`
-
----
-
 # Achievements
 
 <div align="center">
