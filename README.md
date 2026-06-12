@@ -30,10 +30,6 @@
 <img src="https://komarev.com/ghpvc/?username=awwwwnurag&style=for-the-badge&color=7C3AED"/>
 </a>
 
-<a href="https://github.com/awwwwnurag?tab=followers">
-<img src="https://img.shields.io/github/followers/awwwwnurag?style=for-the-badge&color=7C3AED"/>
-</a>
-
 <a href="https://github.com/awwwwnurag?tab=repositories">
 <img src="https://img.shields.io/github/stars/awwwwnurag?style=for-the-badge&color=7C3AED"/>
 </a>
